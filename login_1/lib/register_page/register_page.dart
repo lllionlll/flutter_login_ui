@@ -1,0 +1,1 @@
+export 'package:login_1/register_page/register_page.dart';
